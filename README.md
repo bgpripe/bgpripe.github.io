@@ -1,7 +1,7 @@
 # bgpripe.github.io
 My Personal Page
 
-bgpripe
+bgpripe@
 Vadim Stepanov
 CCNP, CCDP, CCNA sec/voice/wireless, IOS Security Specialist,
 Moscow
